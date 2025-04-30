@@ -1,4 +1,4 @@
-package extends2;
+package extends1;
 
 public class ElectricCar {
 
