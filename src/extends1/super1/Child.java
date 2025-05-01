@@ -13,7 +13,7 @@ public class Child extends Parent {
         System.out.println("this.value = " + this.value); // this 생략가능
         System.out.println("super.value = " + super.value);
 
-        this.hello();
+        this.hello(); // this 생략가능
         super.hello();
     }
 }
